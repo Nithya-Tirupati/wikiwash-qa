@@ -1,0 +1,62 @@
+Introduction:
+The following document will define the complete testplan for WikiWash (Beta) and outline how testing activities will align with the development life cycle.
+WikiWash (Beta) is a free public tool that allows jounalists, citizens and activists to uncover spin and bias on wikipedia by tracking page edits in real time. The platform aims to make political and corporate spin on wikipedia more visible and discoverable and promote accountability and transparency through crowdsourcing.
+
+Objective:
+This test plan document supports the following objective: 
+Verify the functionality of the website, 
+Verify the text alignment, 
+Verify whether the user is directed to the right page on clicking an active link, 
+Verifying cross browser functionality of thh website, 
+Verify whether the right content is being displayed as per the requested URL.
+
+Scope
+In Scope:
+Testing the website on different browsers and see how it behaves on desktops.
+Out of scope:
+Testing the website on a mobile device.
+Testing the loading time of pages
+
+Assumption:
+The website does not display propery on the older versions of the browsers.
+"Follow" a page functionality is not active.
+
+Execution Activities:
+Planning- Test Plan (1 Week)
+Test Design- Writing Test Cases (2 Weeks)
+Test Execution- Detailed Test Cases (2 Weeks), Test Scripts (1 Week), Collecting Test Results (1 Week)
+Results and Review- Test Report ( 1 Week)
+
+Test type:
+Developer:
+Unit testing
+
+QA team:
+Smoke testing
+Functional testing
+Usability testing
+Exploratory testing
+UI testing
+
+Test Tools:
+Browsers: IE11, Mozilla firefox, Google chrome, Opera, Safari.
+Picture capturing: Snagit
+Bug tracker: Github
+
+Defect Management:
+Severity 
+Sev1-Critical- A fault that causes a work stoppage and there is no work-around.
+Sev2-Major- A fault that significantly restricts availability and impacts a specific business operation but other system operations can be continued.
+sev3-Moderate- A fault that slows down performance but availability is not lost
+Sec4-Minor- A fault of minor significance that is superficial in nature and has no impact to system.
+
+Priority 
+P1-Mandatory- Defect should be resolved immediately.
+P2-Important- Resolved within 3 days
+P3-Low- May be postponed
+
+
+
+
+
+
